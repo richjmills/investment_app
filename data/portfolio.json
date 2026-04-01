@@ -1,0 +1,18 @@
+{
+  "base_currency": "EUR",
+  "cash": 0,
+  "holdings": [
+    {
+      "symbol": "AAPL",
+      "type": "stock",
+      "quantity": 10,
+      "avg_price": 150
+    },
+    {
+      "symbol": "MSFT",
+      "type": "stock",
+      "quantity": 5,
+      "avg_price": 300
+    }
+  ]
+}

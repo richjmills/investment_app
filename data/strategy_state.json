@@ -1,0 +1,14 @@
+{
+  "regime": {
+    "current": "risk_off",
+    "last_manual_update": null,
+    "notes": ""
+  },
+  "approved_themes": [],
+  "watch_items": [],
+  "risk_flags": [],
+  "targets": {
+    "annual_return_goal": 0.055
+  },
+  "last_updated": null
+}
