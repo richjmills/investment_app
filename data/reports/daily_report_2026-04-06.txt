@@ -1,0 +1,156 @@
+DAILY DECISION SUMMARY
+
+Market stance:
+→ DE-RISK (confidence: 0.90)
+
+Top issues:
+1. AU exceeds max single position limit (13.89%)
+2. DFEN exceeds max single position limit (15.74%)
+3. Regime shift: risk_off (review required)
+
+Recommended actions:
+→ Reduce concentration / trim oversized positions
+→ Avoid adding new risk
+
+Risk warning:
+→ Portfolio risk elevated — downside vulnerability
+
+============================================================
+
+============================================================
+INVESTMENT APP - DAILY REPORT
+Generated: 2026-04-06 19:56:05
+============================================================
+
+KEY ISSUES
+- Regime review pending: risk_on -> risk_off
+- Portfolio risk elevated
+- AU exceeds max single position limit (13.89%)
+- DFEN exceeds max single position limit (15.74%)
+
+REGIME
+Confirmed: risk_on
+Suggested: risk_off
+Signal: de-risk (confidence: 0.90)
+Signal notes: High geopolitical risk, Inflation / rates pressure
+
+THEMES
+- inflation: 4
+- interest_rates: 9
+- geopolitics: 15
+- growth: 4
+- risk_off: 0
+- risk_on: 1
+
+PERFORMANCE
+Current value: 71101.94
+Baseline value: 3000
+Return: 2270.06%
+Performance status: Above Target
+
+ALLOCATION
+Current: {'equities': 68.92, 'crypto': 11.59, 'commodities': 14.05, 'cash': 5.44}
+Target: {'equities': 60, 'crypto': 15, 'commodities': 15, 'cash': 10}
+Deviation: {'equities': 8.92, 'crypto': -3.41, 'commodities': -0.95, 'cash': -4.56}
+
+RISK
+Risk level: Elevated
+Metrics: cash=5.44%, max_single_position=15.74%, crypto=11.61%
+Flags:
+- AU exceeds max single position limit (13.89%)
+- DFEN exceeds max single position limit (15.74%)
+- 8PSG.DE exceeds max single position limit (13.27%)
+
+HOLDING REVIEW
+- ASML: review | Medium | 1.43%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- AVAV: review | Medium | 1.39%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- AF.PA: review | Medium | 1.89%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- AU: trim | High | 13.89%
+  HARD:
+  - Position exceeds max single-position guideline (13.89%)
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- BG: review | Medium | 4.55%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- CF: review | Medium | 4.17%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- LHA.DE: review | Medium | 2.11%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- DFEN: trim | High | 15.74%
+  HARD:
+  - Position exceeds max single-position guideline (15.74%)
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- VWCE.DE: review | Medium | 6.92%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- XDWT.DE: review | Medium | 4.36%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- 2B77.DE: review | Medium | 4.09%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- IQQQ: review | Medium | 1.77%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- 2B78.DE: review | Medium | 6.61%
+  SOFT:
+  - Equity exposure less attractive in risk_off regime
+- 8PSG.DE: trim | High | 13.27%
+  HARD:
+  - Position exceeds max single-position guideline (13.27%)
+  SOFT:
+  - Commodity / defensive exposure may fit regime better
+- VZLC.HM: hold | Low | 0.79%
+  SOFT:
+  - Commodity / defensive exposure may fit regime better
+- BTC-EUR: reduce | High | 5.96%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- ETH-EUR: reduce | High | 0.93%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- QNT-USD: reduce | High | 1.06%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- SOL-USD: reduce | High | 0.85%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- LINK-USD: reduce | High | 0.61%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- XRP-USD: reduce | High | 0.57%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- XLM-USD: reduce | High | 0.47%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- ADA-USD: reduce | High | 0.37%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- DOT-USD: reduce | High | 0.75%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- SHIB-USD: reduce | High | 0.03%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+- DOGE-USD: reduce | High | 0.01%
+  SOFT:
+  - Crypto exposure less attractive in risk_off regime
+
+ACTIONS
+- Do not add new risk
+- Review high-beta or cyclical holdings
+- Consider raising cash gradually
+- Prefer defensive positioning
+
+============================================================

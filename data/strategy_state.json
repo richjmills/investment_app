@@ -1,14 +1,39 @@
 {
-  "regime": {
-    "current": "risk_off",
-    "last_manual_update": null,
-    "notes": ""
+  "current_regime": {
+    "name": "risk_on",
+    "confidence": "Medium",
+    "confirmed_on": null,
+    "confirmed_by": "User"
+  },
+  "portfolio_stance": {
+    "equities": "Neutral",
+    "crypto": "Neutral",
+    "commodities": "Neutral",
+    "cash": "Normal"
+  },
+  "active_targets": {
+    "equities": 60,
+    "crypto": 15,
+    "commodities": 15,
+    "cash": 10
+  },
+  "pending_regime_review": {
+    "active": true,
+    "candidate_regime": "risk_off",
+    "confidence": "Medium",
+    "flagged_on": "today",
+    "reason": [
+      "High geopolitical risk",
+      "Inflation / rates pressure"
+    ],
+    "status": "Awaiting user review"
   },
   "approved_themes": [],
-  "watch_items": [],
-  "risk_flags": [],
-  "targets": {
-    "annual_return_goal": 0.055
+  "risk_state": {
+    "risk_level": "Normal",
+    "drawdown_alert": false,
+    "volatility_alert": false,
+    "rebalance_required": false
   },
-  "last_updated": null
+  "strategy_notes": []
 }

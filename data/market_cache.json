@@ -1,22 +1,12 @@
 {
-  "AAPL": {
+  "USDEUR=X": {
     "data": {
-      "symbol": "AAPL",
-      "price": 255.19000244140625,
-      "change": 1.4,
-      "change_percent": "0.55%",
+      "symbol": "USDEUR=X",
+      "price": 0.8640000224113464,
+      "change": -0.0,
+      "change_percent": "-0.55%",
       "source": "yahoo_finance"
     },
-    "timestamp": "2026-04-01T17:22:48.090878+00:00"
-  },
-  "MSFT": {
-    "data": {
-      "symbol": "MSFT",
-      "price": 372.2099914550781,
-      "change": 2.04,
-      "change_percent": "0.55%",
-      "source": "yahoo_finance"
-    },
-    "timestamp": "2026-04-01T17:23:00.445003+00:00"
+    "timestamp": "2026-04-07T15:47:51.254077+00:00"
   }
 }

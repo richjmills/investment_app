@@ -1,18 +1,44 @@
 {
   "base_currency": "EUR",
-  "cash": 0,
+  "cash": 3868.44,
   "holdings": [
-    {
-      "symbol": "AAPL",
-      "type": "stock",
-      "quantity": 10,
-      "avg_price": 150
-    },
-    {
-      "symbol": "MSFT",
-      "type": "stock",
-      "quantity": 5,
-      "avg_price": 300
-    }
+    {"symbol": "ASML", "type": "stock", "quantity": 0.9, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "AVAV", "type": "stock", "quantity": 6, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "AF.PA", "type": "stock", "quantity": 150, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "AU", "type": "stock", "quantity": 112, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "BG", "type": "stock", "quantity": 29, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "CF", "type": "stock", "quantity": 26, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "LHA.DE", "type": "stock", "quantity": 200, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "ECL", "type": "stock", "quantity": 5, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "EQNR", "type": "stock", "quantity": 65, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "IBE.MC", "type": "stock", "quantity": 85, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "LNN", "type": "stock", "quantity": 5, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "NTR", "type": "stock", "quantity": 48, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "PNR", "type": "stock", "quantity": 16, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "SHEL", "type": "stock", "quantity": 70, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "TTE", "type": "stock", "quantity": 43, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "XYL", "type": "stock", "quantity": 19, "avg_price": 0, "currency": "EUR"},
+
+    {"symbol": "DFEN", "type": "etf", "quantity": 189, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "VWCE.DE", "type": "etf", "quantity": 34, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "XDWT.DE", "type": "etf", "quantity": 33, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "2B77.DE", "type": "etf", "quantity": 360, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "IQQQ", "type": "etf", "quantity": 34.5, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "2B78.DE", "type": "etf", "quantity": 620, "avg_price": 0, "currency": "EUR"},
+
+    {"symbol": "8PSG.DE", "type": "commodity", "quantity": 24.234363, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "VZLC.HM", "type": "commodity", "quantity": 10, "avg_price": 0, "currency": "EUR"},
+
+    {"symbol": "BTC-EUR", "type": "crypto", "quantity": 0.07007047, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "ETH-EUR", "type": "crypto", "quantity": 0.3551304, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "ONT-USD", "type": "crypto", "quantity": 11.49191, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "SOL-USD", "type": "crypto", "quantity": 8.56276, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "LINK-USD", "type": "crypto", "quantity": 55.41296, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "XRP-USD", "type": "crypto", "quantity": 346.33162, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "XLM-USD", "type": "crypto", "quantity": 2415.21429, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "ADA-USD", "type": "crypto", "quantity": 1212.406596, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "DOT-USD", "type": "crypto", "quantity": 480.75236, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "SHIB-USD", "type": "crypto", "quantity": 3569848, "avg_price": 0, "currency": "EUR"},
+    {"symbol": "DOGE-USD", "type": "crypto", "quantity": 113, "avg_price": 0, "currency": "EUR"}
   ]
 }

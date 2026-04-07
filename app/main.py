@@ -1,7 +1,7 @@
-from app.config import STRATEGY_STATE_PATH, PORTFOLIO_PATH
+from app.config import PORTFOLIO_PATH, STRATEGY_STATE_PATH
 from app.logger import setup_logger
-from app.state_manager import load_strategy_state, load_portfolio
 from app.scheduler import run_scheduler
+from app.state_manager import load_portfolio, load_strategy_state
 
 
 def main():
@@ -9,18 +9,15 @@ def main():
 
     logger.info("Starting Investment App")
 
-    # Load core data
     strategy_state = load_strategy_state()
     portfolio = load_portfolio()
 
-    logger.info(f"Strategy state loaded from: {STRATEGY_STATE_PATH}")
-    logger.info(f"Portfolio loaded from: {PORTFOLIO_PATH}")
+    logger.info("Strategy state loaded from: %s", STRATEGY_STATE_PATH)
+    logger.info("Portfolio loaded from: %s", PORTFOLIO_PATH)
+    logger.info("Current regime: %s", strategy_state["current_regime"]["name"])
+    logger.info("Portfolio cash: %s", portfolio["cash"])
 
-    logger.info(f"Current regime: {strategy_state['regime']['current']}")
-    logger.info(f"Portfolio cash: {portfolio['cash']}")
-
-    # Start scheduler loop
-    run_scheduler(logger, interval_seconds=300)
+    run_scheduler(logger, interval_seconds=3600)
 
 
 if __name__ == "__main__":
